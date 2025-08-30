@@ -14,6 +14,8 @@ import MyPage from './pages/MyPage';
 import Parent from './context/Parent';
 import CounterOne from './reducer/CounterOne';
 
+import Search from './components/SearchFilter'
+
 
 
 
